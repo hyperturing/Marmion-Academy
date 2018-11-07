@@ -6,7 +6,7 @@
 
 import hoomd
 import numpy
-import hoomd.md hi hi hi hi hi hi hi
+import hoomd.md 
 import sys
 import gsd
 import gsd.hoomd
