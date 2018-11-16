@@ -1,2 +1,2 @@
 # Marmion-Academy
-Marmion App Development Repository
+Marmion Software Development Repository
